@@ -24,13 +24,13 @@
 - Joomla
 
 ## Discovering New Vulnerabilities (PHP7) - RQ3
-- XenforoCMS 2.1.6 Not for free
-- lodel https://github.com/OpenEdition/lodel
-- instantcms (icms) https://github.com/instantsoft/icms2?tab=readme-ov-file
-- HAXcms https://github.com/elmsln/HAXcms
-- inventory-management-system https://github.com/stemword/php-inventory-management-system
+- X XenforoCMS 2.1.6 Not for free
+- % lodel https://github.com/OpenEdition/lodel
+- % instantcms (icms) https://github.com/instantsoft/icms2?tab=readme-ov-file
+- %%% HAXcms https://github.com/elmsln/HAXcms
+- %%% inventory-management-system https://github.com/stemword/php-inventory-management-system
 - rental-property-manager https://github.com/bigprof-software/online-rental-property-manager
-- Joomla
+- X Joomla
 
 - WordPress ?????????
 - OpenEMR 5.0.1.7 ?????
