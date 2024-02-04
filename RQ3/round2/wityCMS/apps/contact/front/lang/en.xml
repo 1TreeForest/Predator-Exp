@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lang value="en">
+  <item id="mail_for_admin_body">Hello,&lt;br /&gt;&lt;br /&gt;&#13;
+&#13;
+A new contact request was just posted on the website {{site}} :&#13;
+&#13;
+&lt;ul&gt;&#13;
+	&lt;li&gt;&lt;strong&gt;Name:&lt;/strong&gt; {{name}}&lt;/li&gt;&#13;
+	&lt;li&gt;&lt;strong&gt;Organization:&lt;/strong&gt; {{company}}&lt;/li&gt;&#13;
+	&lt;li&gt;&lt;strong&gt;Subject:&lt;/strong&gt; {{subject}}&lt;/li&gt;&#13;
+	&lt;li&gt;&lt;strong&gt;Message:&lt;/strong&gt;&lt;br /&gt;{{message}}&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+{{extras}}&#13;
+&#13;
+You can find the full list of contact request on &lt;a href="{{base}}admin/contact"&gt;this page&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&#13;
+&#13;
+--&lt;br /&gt;&#13;
+&lt;em&gt;This is an auto-generated email.&lt;/em&gt;</item>
+  <item id="mail_for_admin_subject">[%s] Contact - %s</item>
+  <item id="copy_subject">[%s] Your contact request</item>
+  <item id="auto_reply">Hello,&lt;br /&gt;&lt;br /&gt;&#13;
+&#13;
+You just sent a contact request on the website {{site}}.&lt;br /&gt;&lt;br /&gt;&#13;
+There, is a summary:&#13;
+&lt;ul&gt;&#13;
+	&lt;li&gt;&lt;strong&gt;Name:&lt;/strong&gt; {{name}}&lt;/li&gt;&#13;
+	&lt;li&gt;&lt;strong&gt;Organization:&lt;/strong&gt; {{company}}&lt;/li&gt;&#13;
+	&lt;li&gt;&lt;strong&gt;Subject:&lt;/strong&gt; {{subject}}&lt;/li&gt;&#13;
+	&lt;li&gt;&lt;strong&gt;Message:&lt;/strong&gt;&lt;br /&gt;{{message}}&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+{{extras}}&#13;
+&#13;
+We will do our best to answer to your request as quickly as possible.&lt;br /&gt;&lt;br /&gt;&#13;
+&#13;
+Regards,&lt;br /&gt;&#13;
+{{site}} team&lt;br /&gt;&lt;br /&gt;&#13;
+&#13;
+--&lt;br /&gt;&#13;
+&lt;em&gt;This is an auto-generated email.&lt;/em&gt;</item>
+</lang>

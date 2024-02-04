@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lang value="fr">
+  <item id="Email id is missing.">L'identifiant de l'email est manquant.</item>
+  <item id="Unable to find this email.">Impossible de trouver cet email.</item>
+  <item id="The configuration was updated.">La configuration a été mise à jour.</item>
+  <item id="Configuration">Configuration</item>
+  <item id="Save">Sauvegarder</item>
+  <item id="From:">De :</item>
+  <item id="Download attachment">Télécharger la pièce jointe</item>
+  <item id="Close">Fermer</item>
+  <item id="Inbox">Boîte de réception</item>
+  <item id="%s emails">%s emails</item>
+  <item id="From">De</item>
+  <item id="Subject">Objet</item>
+  <item id="Date">Date</item>
+  <item id="No email found.">Aucun email trouvé.</item>
+  <item id="Contact">Contact</item>
+</lang>

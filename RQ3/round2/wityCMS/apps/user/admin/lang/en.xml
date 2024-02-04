@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lang value="en">
+  <item id="user_account_validated_email">&#13;
+&lt;p&gt;Welcome on {site_title}!&lt;/p&gt;&#13;
+&lt;p&gt;Your account on {site_title} was validated by an administrator.&lt;/p&gt;&#13;
+&lt;p&gt;You can login with your account at the address &lt;a href="{{base}}user/login"&gt;{{base}}user/login&lt;/a&gt;.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;{{site_title}}&lt;/p&gt;&#13;
+--------------&lt;br /&gt;&#13;
+This is an automatic message.</item>
+  <item id="user_account_refused_email">&#13;
+&lt;p&gt;Dear user,&lt;/p&gt;&#13;
+&lt;p&gt;Your inscription on {{site_title}} was not accepted.&lt;/p&gt;&#13;
+&lt;p&gt;For further information, please, contact an administrator.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;{{site_title}}&lt;/p&gt;&#13;
+--------------&lt;br /&gt;&#13;
+This is an automatic message.</item>
+  <item id="user_register_email_subject">%s - Creation of your user account</item>
+  <item id="user_register_email_body">&#13;
+&lt;p&gt;Dear user,&lt;/p&gt;&#13;
+&lt;p&gt;An account was just created for you on the website {{site_title}}.&lt;/p&gt;&#13;
+&lt;p&gt;To login, proceed to &lt;a href="{{base}}user/login"&gt;{{base}}user/login&lt;/a&gt;.&lt;/p&gt;&#13;
+&lt;p&gt;Here are you login data :&lt;/p&gt;&#13;
+&lt;ul&gt;&#13;
+	&lt;li&gt;&lt;strong&gt;ID :&lt;/strong&gt; {{nickname}}&lt;/li&gt;&#13;
+	&lt;li&gt;&lt;strong&gt;Password :&lt;/strong&gt; {{password}}&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;p&gt;This information is personnal.&lt;br /&gt;&#13;
+To change them, go to your profile.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;{{site_title}}&lt;/p&gt;&#13;
+--------------&lt;br /&gt;&#13;
+This is an automatic message.</item>
+  <item id="user_edition_email_subject">%s - Edition of your user account</item>
+  <item id="user_edition_email_body">&#13;
+&lt;p&gt;Dear user,&lt;/p&gt;&#13;
+&lt;p&gt;Your account was just edited and validated on the website {{site_title}}.&lt;/p&gt;&#13;
+&lt;p&gt;To login, proceed to &lt;a href="{{base}}user/login"&gt;{{base}}user/login&lt;/a&gt;.&lt;/p&gt;&#13;
+&lt;p&gt;Here are you login data :&lt;/p&gt;&#13;
+&lt;ul&gt;&#13;
+	&lt;li&gt;&lt;strong&gt;ID :&lt;/strong&gt; {{nickname}}&lt;/li&gt;&#13;
+	&lt;li&gt;&lt;strong&gt;Password :&lt;/strong&gt; {{password}}&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;p&gt;This information is personnal.&lt;br /&gt;&#13;
+To change them, go to your profile.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;{{site_title}}&lt;/p&gt;&#13;
+--------------&lt;br /&gt;&#13;
+This is an automatic message.</item>
+</lang>
