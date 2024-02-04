@@ -1,0 +1,201 @@
+/**
+ * Theme Name: Grafx
+ * Theme URI: https://creatiwity.net
+ * Description: Theme for wityCMS
+ * Author: Creatiwity
+ * Author URI: https://creatiwity.net
+ * Version: 1.1.0
+ */
+
+html {
+	font-size: 100%;
+}
+
+body {
+	font-family: Arial, sans-serif;
+	font-size: 0.8em;
+	color: #a0a0a0;
+	background: url('../img/bg.png') repeat-x;
+}
+
+.clear {
+	clear: both;
+}
+
+a {
+	color: #91cadf;
+	text-decoration: none;
+}
+
+a:hover, a:focus {
+	color: #76afc4;
+	text-decoration: underline;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: #91cadf;
+	font-weight: bold;
+	margin: 0 0 1em 0;
+	padding: 0;
+}
+
+h1 {
+	font-size: 2em;
+}
+
+h2 {
+	font-size: 1.8em;
+}
+
+h3 {
+	font-size: 1.6em;
+}
+
+h4 {
+	font-size: 1.4em;
+}
+
+h5 {
+	font-size: 1.2em;
+}
+
+h6 {
+	font-size: 1.1em;
+}
+
+.block {
+	background: white;
+	padding: 15px 30px;
+	margin-bottom: 15px;
+	border-radius: 5px;
+}
+
+/**
+ * Header
+ */
+
+header.theme-header {
+	color: white;
+	font-weight: bold;
+	margin-top: 30px;
+}
+
+header.theme-header img {
+	float: left;
+}
+
+header.theme-header .inner {
+	display: inline-block;
+	text-align: right;
+	padding-top: 40px;
+}
+
+header.theme-header p.site-name {
+	font-size: 3em;
+	letter-spacing: 4px;
+	text-transform: uppercase;
+	margin: 0;
+	padding: 0;
+	display: inline;
+}
+
+/**
+ * Navigation
+ */
+
+.navbar {
+	background: white;
+}
+
+.navbar ul li a {
+	color: #a0a0a0;
+}
+
+.navbar ul li a:hover {
+	color: #91cadf;
+	background: #f9fdff;
+}
+
+.navbar ul li a span {
+	font-size: 1.4em;
+}
+
+.navbar ul li em {
+	font-style: normal;
+}
+
+.navbar .navbar-toggle {
+	border-color: #dddddd;
+}
+
+.navbar .icon-bar {
+	background-color: #dddddd;
+}
+
+.navbar .navbar-form {
+	border: 1px solid #cfcfcf;
+	margin-top: 15px;
+	padding: 0;
+}
+
+.navbar .navbar-form input {
+	border: 0;
+	margin: 0;
+	padding: 0 0 0 10px;
+	border-radius: 0;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+}
+
+.navbar .navbar-form button {
+	width: 30px;
+	height: 32px;
+	overflow: hidden;
+	text-align: center;
+	border: 0;
+	border-radius: 0;
+	margin: 0 1px 0 0;
+	padding: 0;
+	background: #f5f5f5;
+	color: white;
+}
+
+.navbar .navbar-form button:hover {
+	color: white;
+	background: #f0f0f0;
+}
+
+/**
+ * Block user
+ */
+
+.block-user .buttons {
+	margin: 0;
+	padding: 0;
+}
+
+.block-user .buttons a {
+	text-transform: uppercase;
+	font-size: 1.2em;
+	display: inline-block;
+	text-decoration: none;
+	margin: 0 10px;
+	padding: 10px;
+}
+
+.block-user .button-register {
+	color: #91cadf;
+}
+
+.block-user .button-login {
+	color: #b9d794;
+}
+
+.block-user .panel {
+	margin-bottom: 0px;
+	background-color: none;
+	border: 0px solid transparent;
+	border-radius: 0px;
+	-webkit-box-shadow: 0 0px 0px rgba(0,0,0,0);
+	box-shadow: 0 0px 0px rgba(0,0,0,0);
+}

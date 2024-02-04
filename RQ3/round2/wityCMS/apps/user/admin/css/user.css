@@ -1,0 +1,40 @@
+/**
+ * Users listing
+ */
+#admin-check a {
+	filter:alpha(opacity=30);
+	-moz-opacity: 0.3;
+	-khtml-opacity: 0.3;
+	opacity: 0.3;
+}
+
+#admin-check a:hover, #admin-check a.checked {
+	filter:alpha(opacity=100);
+	-moz-opacity: 1;
+	-khtml-opacity: 1;
+	opacity: 1;
+}
+
+#admin-check-buttons {
+	display: none;
+}
+
+/**
+ * User form
+ */
+.user-rights {
+	width: 100%;
+	border-collapse: collapse;
+	border: 1px solid black;
+}
+
+.user-rights tbody tr td {
+	border: 1px solid black;
+	padding: 10px;
+}
+
+.user-rights .permissions {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lang value="fr">
+  <item id="An error occured during the upload of the document: %s.">Une erreur s'est produite pendant l'envoi du message: %s.</item>
+  <item id="mail_for_admin_body">Bonjour,&lt;br /&gt;&lt;br /&gt;&#13;
+&#13;
+Une nouvelle demande de contact vient d'être postée sur le site {{site}} :&#13;
+&#13;
+&lt;ul&gt;&#13;
+	&lt;li&gt;&lt;strong&gt;Nom :&lt;/strong&gt; {{name}}&lt;/li&gt;&#13;
+	&lt;li&gt;&lt;strong&gt;Organisation :&lt;/strong&gt; {{company}}&lt;/li&gt;&#13;
+	&lt;li&gt;&lt;strong&gt;Objet :&lt;/strong&gt; {{subject}}&lt;/li&gt;&#13;
+	&lt;li&gt;&lt;strong&gt;Message :&lt;/strong&gt;&lt;br /&gt;{{message}}&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+{{extras}}&#13;
+&#13;
+Vous pouvez visualiser l'ensemble des demandes de contact à &lt;a href="{{base}}admin/contact"&gt;cette adresse&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&#13;
+&#13;
+--&lt;br /&gt;&#13;
+&lt;em&gt;Ceci est un message automatique.&lt;/em&gt;</item>
+  <item id="mail_for_admin_subject">[%s] Contact - %s</item>
+  <item id="copy_subject">[%s] Votre email de contact</item>
+  <item id="auto_reply">Bonjour,&lt;br /&gt;&lt;br /&gt;&#13;
+&#13;
+Vous venez d'envoyer un email de contact sur le site {{site}}.&lt;br /&gt;&lt;br /&gt;&#13;
+En voici un récapitulatif :&#13;
+&lt;ul&gt;&#13;
+	&lt;li&gt;&lt;strong&gt;Nom :&lt;/strong&gt; {{name}}&lt;/li&gt;&#13;
+	&lt;li&gt;&lt;strong&gt;Organisation :&lt;/strong&gt; {{company}}&lt;/li&gt;&#13;
+	&lt;li&gt;&lt;strong&gt;Objet :&lt;/strong&gt; {{subject}}&lt;/li&gt;&#13;
+	&lt;li&gt;&lt;strong&gt;Message :&lt;/strong&gt;&lt;br /&gt;{{message}}&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+{{extras}}&#13;
+&#13;
+Nous nous efforçons d'y répondre dans les plus brefs délais.&lt;br /&gt;&lt;br /&gt;&#13;
+&#13;
+Merci,&lt;br /&gt;&#13;
+L'équipe du site {{site}}&lt;br /&gt;&lt;br /&gt;&#13;
+&#13;
+--&lt;br /&gt;&#13;
+&lt;em&gt;Ceci est un message automatique.&lt;/em&gt;</item>
+  <item id="Sorry, unable to send this email. The administrator will be informed, please try again later.">Nous sommes désolés mais ce mail n'a pas pu être envoyé. Cependant l'administrateur a été prévenu de l'erreur, nous vous invitons donc à réessayer plus tard.</item>
+  <item id="E-mail successfully sent.">E-mail envoyé avec succès.</item>
+  <item id="Please, provide a name.">Il manque votre nom.</item>
+  <item id="Please, provide an email.">Il manque votre adresse mail.</item>
+  <item id="The email provided is invalid.">Votre adresse mail semble invalide.</item>
+  <item id="Please, provide a subject.">Il manque l'objet du mail.</item>
+  <item id="Please, provide a message.">Il manque le corps de ce mail.</item>
+  <item id="Name">Nom</item>
+  <item id="Organization">Organisation</item>
+  <item id="Email">Email</item>
+  <item id="Subject">Objet</item>
+  <item id="Message">Message</item>
+  <item id="Document">Document</item>
+  <item id="Upload a document">Joindre un document</item>
+  <item id="Sending...">Envoi...</item>
+  <item id="Send">Envoyer</item>
+</lang>

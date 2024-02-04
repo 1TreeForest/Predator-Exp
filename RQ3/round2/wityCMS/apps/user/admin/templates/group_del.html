@@ -1,0 +1,18 @@
+<div class="modal-dialog">
+	<div class="modal-content">
+		<div class="modal-header">
+			<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+			<h4 class="modal-title" id="modal_delete_label">{lang Delete a group}</h4>
+		</div>
+		<div class="modal-body">
+			<p>{lang Do you really want to delete the group %s?|{$group_name}}</p>
+		</div>
+		<div class="modal-footer">
+			<form action="{$confirm_delete_url}" method="post">
+				<input type="hidden" name="confirm" value="1" />
+				<button type="button" class="btn btn-default" data-dismiss="modal">{lang Cancel}</button>
+				<button type="submit" class="btn btn-danger">{lang Delete}</button>
+			</form>
+		</div>
+	</div>
+</div>
