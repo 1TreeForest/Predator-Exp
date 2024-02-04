@@ -44,3 +44,9 @@ Using some of the apps listed above.
 - https://github.com/doorgets/CMS
 - https://github.com/Creatiwity/wityCMS
 - https://github.com/WXiangQian/stationery-cms
+- https://github.com/RooCMS/RooCMS
+- https://github.com/PHPVibe/PHPVibe
+- https://github.com/Surya2Developer/Online_shopping_-system
+- https://github.com/ashraf-kabir/travel-agency
+- https://github.com/SashenJayathilaka/Modern_E-Commerce_Website.git
+- https://github.com/namanvashistha/foodly
